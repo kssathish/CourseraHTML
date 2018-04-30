@@ -1,2 +1,2 @@
 # CourseraHTML
-FrontEnd Development Course Learning Repo.
+FrontEnd Development Course Learning Repo
